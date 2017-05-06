@@ -1,0 +1,8 @@
+body {
+	padding-top: 70px;
+}
+
+.thumbnail > img, .thumbnail a > img {
+	height: 250px;
+	width: 1450px;
+}

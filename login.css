@@ -1,0 +1,26 @@
+body {
+	background: url(http://www.planwallpaper.com/static/images/awesome-rain-wallpaper_0_SRyoi3m.jpg);
+	background-size: cover;
+	background-position: centre;
+	font-family: lato;
+	color: black;
+	padding-top: 70px;
+
+}
+
+html{
+	height: 100%;
+	width: 100%;
+}
+
+.btn-facebook{
+	width: 200px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.btn-twitter {
+	width: 200px;
+}
+
+
